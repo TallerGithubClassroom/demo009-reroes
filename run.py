@@ -1,6 +1,5 @@
 """
 """
-
 class Demo:
 
     def obtener():
